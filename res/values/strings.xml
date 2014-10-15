@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Funny Gomoku</string>
+    <string name="app_name">Gomoku</string>
+    <string name="button_single">Single Player</string>
+    <string name="button_two">Two Players</string>
+    <string name="button_risk">Risk Mode</string>
+    <string name="button_bluetooth">Bluetooth Connect</string>
+    <string name="button_setting">Settings</string>
+    <string name="button_exit">Exit</string>
+    <string name="game_two">Two Player</string>
+    <string name="background">BackgroundPicture</string>
+    <string name="music">Music</string>
+    <string name="show_wood">Wood</string>
+    <string name="show_stone">Stone</string>
+    <string name="show_grass">Grass</string>
+    <string name="pic_wood">Wood</string>
+    <string name="pic_stone">Stone</string>
+    <string name="pic_grass">Grass</string>
+    <string name="show_1">None</string>
+	<string name="show_2">青花瓷</string>
+	<string name="show_3">独占神话</string>
+	<string name="music_1">None</string>
+	<string name="music_2">Music2</string>
+	<string name="music_3">Music3</string>
+	<string name="hand">Player order</string>
+	<string name="hand_1">Player first</string>
+	<string name="hand_2">Computer first</string>
+	<string name="showhand_1">Player first</string>
+	<string name="showhand_2">Computer first</string>
+	</resources>

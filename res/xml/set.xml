@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+<ListPreference
+                        android:title="BackGroundPicture"
+                        android:summary="Select an BackGroundPicture"
+                        android:key="piclist"
+                        android:defaultValue="Wood"
+                        android:entries="@array/background"
+                        android:entryValues="@array/backgroundpic" />
+<ListPreference
+                        android:title="Music"
+                        android:summary="Select an music to display"
+                        android:key="musiclist"
+                        android:defaultValue="None"
+                        android:entries="@array/showmusic"
+                        android:entryValues="@array/music" />
+<ListPreference 
+    					android:title="Player order"
+                        android:summary="Select the order you play"
+                        android:key="orderlist"
+                        android:defaultValue="Player first"
+                        android:entries="@array/showhand"
+                        android:entryValues="@array/hand"/>
+    
+
+</PreferenceScreen>

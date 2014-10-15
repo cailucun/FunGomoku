@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="background">
+        <item>@string/show_wood</item>
+        <item>@string/show_stone</item>
+        <item>@string/show_grass</item>
+    </string-array>
+    <string-array name="backgroundpic">
+        <item>@string/pic_wood</item>
+        <item>@string/pic_stone</item>
+        <item>@string/pic_grass</item>
+    </string-array>
+    <string-array name="showmusic">
+        <item>@string/show_1</item>
+        <item>@string/show_2</item>
+        <item>@string/show_3</item>
+    </string-array>
+    <string-array name="music">
+        <item>@string/music_1</item>
+        <item>@string/music_2</item>
+        <item>@string/music_3</item>
+    </string-array>
+        <string-array name="hand">
+        <item>@string/hand_1</item>
+        <item>@string/hand_2</item>
+    </string-array>
+        <string-array name="showhand">
+        <item>@string/showhand_1</item>
+        <item>@string/showhand_2</item>
+    </string-array>
+    
+</resources>
